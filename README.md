@@ -3,7 +3,7 @@
 - 👀 I’m interested in **web development**, **Java backend systems**, and **AI-driven healthcare tools**.
 - 🌱 I’m currently learning **Spring Boot**, **React**, **Big Data Analytics (Hive, Pig)**, and **real-time fraud detection systems**.
 - 💞️ I’m looking to collaborate on **open-source Java projects**, especially in the **healthcare tech and finance domains**.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/anushapaleti) | 📧 anushapaleti@example.com
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/anushapaleti) | 📧 anushapaleti8@gmail.com
 - 😊 Pronouns: she/her
 - ⚡ Fun fact: I once debugged an error at 3 AM and accidentally built a new feature instead!
 
